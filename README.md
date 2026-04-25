@@ -3,34 +3,39 @@
 <img src="https://i.imgur.com/0ZfK8zP.png" width="110" alt="Sakura Icon">
 
 # 🌸 **SAKURAAAAA UI**  
-**V16.5 - Ultra Small Classic Executor**
+**V16.5 - Ultra Small Classic Sakura Executor**
 
-### *Minimal • Smooth • Powerful*
+### *Clean • Smooth • Minimal • Powerful*
 
-The cleanest and smallest Roblox executor UI with soft sakura pink theme, smooth animations, and a real bottom-right notification when loaded.
-
-![UI Preview](https://via.placeholder.com/780x420/1A0F24/FF8CB9?text=SAKURAAAAA+UI+V16.5+Preview)  
-*(Replace this with your actual screenshot once uploaded)*
+The smallest and cleanest Roblox executor UI with soft sakura pink accents, smooth animations, breathing glow, and a real Roblox-style notification in the bottom-right corner.
 
 </div>
 
 ---
 
-## ✨ Features
+### 📸 **Preview**
 
-- **Ultra Compact** — Takes almost no screen space
-- Classic executor layout with a big, clean code box
-- Soft Sakura Pink & Dark theme with breathing glow
-- Smooth drag, animations, and F to toggle
-- Real Roblox-style badge notification in bottom-right corner
-- Full `loadstring` support (works with most scripts)
-- Works great on PC and mobile executors
+![Sakurraaaaaa UI Preview](https://i.imgur.com/LZDZf.png)
+
+*(Ultra compact design with big code box, pink EXECUTE button, and sakura theme)*
 
 ---
 
-## 🚀 Quick Load
+## ✨ Features
 
-Copy and paste this into your executor:
+- **Ultra Small & Compact** — Takes very little screen space
+- Classic executor layout focused on the code box
+- Soft sakura pink theme with elegant glow effects
+- Smooth drag, intro animation, and F key toggle
+- Real Roblox badge-style notification in the **bottom-right corner**
+- Full `loadstring` support (works great with most scripts)
+- Optimized for both PC and mobile executors
+
+---
+
+## 🚀 How to Load
+
+Copy and paste this loadstring into your executor:
 
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/profile67/sakurraaaaaa-UI/main/sakurraaaaaa.lua"))()
