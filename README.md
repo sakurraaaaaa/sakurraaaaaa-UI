@@ -1,22 +1,37 @@
-# 🥥 COCONUT UI
+<div align="center">
 
-**Premium Roblox Exploit Interface**  
-Clean • Smooth • Powerful
+<img src="https://i.imgur.com/0ZfK8zP.png" width="120" alt="Sakura Icon">
 
-<p align="center">
-  <img src="https://github.com/heromolina4-netizen/cocoScript/blob/main/coconut-ui-preview.png?raw=true" width="82%" alt="Coconut UI Preview">
-</p>
+# 🌸 **SAKURA BLOOM UI**  
+**V15 - Premium Cherry Blossom Edition**
 
-### ✨ Features
-- Modern brown & cream aesthetic
-- Smooth hover animations and transitions
-- Powerful multi-line executor
-- Auto-save scripts (persists after re-injection)
-- Clean Home tab with quick tools
-- Press **F** to hide / show the UI
-- Fully draggable window
+### *Elegant. Smooth. Powerful.*
 
-### 🚀 How to Load
+The most beautiful and clean Roblox executor UI with soft sakura pink & white theme, floating petals, smooth animations, and a powerful built-in executor.
+
+![Preview](https://via.placeholder.com/800x400/1A1422/FFB6D7?text=Sakura+Bloom+UI+Preview)  
+*(Replace with actual screenshot when you upload one)*
+
+</div>
+
+---
+
+## ✨ Features
+
+- Stunning Cherry Blossom (Sakura) aesthetic with pink & white tones
+- Floating petal particle background
+- Smooth breathing glows and premium animations
+- Modern drag & drop interface
+- Powerful Executor supporting `loadstring`, modules (`require`), LocalScripts & more
+- Press **F** to toggle the UI
+- Clean Home page with quick actions
+- Fully customizable and easy to use
+
+---
+
+## 🚀 How to Load (One Click)
+
+Copy and paste the loadstring below into your favorite Roblox executor:
 
 ```lua
-loadstring(game:HttpGet("loadstring(game:HttpGet("https://raw.githubusercontent.com/profile67/CoconutUI/main/cocoScript.lua"))()"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/profile67/sakurraaaaaa-UI/main/sakurraaaaaa.lua"))()
