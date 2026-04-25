@@ -1,41 +1,42 @@
 <div align="center">
 
-<img src="https://i.imgur.com/0ZfK8zP.png" width="110" alt="Sakura Icon">
+<img src="https://i.imgur.com/0ZfK8zP.png" width="120" alt="Sakura Icon">
 
 # 🌸 **SAKURAAAAA UI**  
-**V16.5 - Ultra Small Classic Sakura Executor**
+**V16.5 - Ultra Small Sakura Executor**
 
-### *Clean • Smooth • Minimal • Powerful*
+### *Clean • Smooth • Minimal • Beautiful*
 
-The smallest and cleanest Roblox executor UI with soft sakura pink accents, smooth animations, breathing glow, and a real Roblox-style notification in the bottom-right corner.
+The smallest and most elegant Roblox executor UI with soft sakura pink theme, smooth animations, breathing glow, and a real Roblox-style notification in the bottom-right corner.
 
 </div>
 
 ---
 
-### 📸 **Preview**
+### 📸 **In-Game Preview**
 
-![Sakurraaaaaa UI Preview](https://i.imgur.com/LZDZf.png)
+![Sakurraaaaaa UI Preview](https://i.imgur.com/Vxbtz.png)
 
-*(Ultra compact design with big code box, pink EXECUTE button, and sakura theme)*
+*Ultra compact design with big code box, glowing pink EXECUTE button, and sakura accents.*
 
 ---
 
 ## ✨ Features
 
-- **Ultra Small & Compact** — Takes very little screen space
-- Classic executor layout focused on the code box
-- Soft sakura pink theme with elegant glow effects
-- Smooth drag, intro animation, and F key toggle
-- Real Roblox badge-style notification in the **bottom-right corner**
-- Full `loadstring` support (works great with most scripts)
-- Optimized for both PC and mobile executors
+- **Ultra Compact** — Very small footprint, perfect for minimal screen usage
+- Classic executor layout focused on a large, clean code box
+- Soft sakura pink & dark theme with elegant breathing glow
+- Smooth drag support and nice intro animation
+- Real Roblox badge notification popping in the **bottom-right corner**
+- Full `loadstring` support (works with almost every script)
+- Press **F** to quickly hide/show the UI
+- Optimized for PC and mobile executors
 
 ---
 
 ## 🚀 How to Load
 
-Copy and paste this loadstring into your executor:
+Copy & paste this into your favorite Roblox executor:
 
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/profile67/sakurraaaaaa-UI/main/sakurraaaaaa.lua"))()
