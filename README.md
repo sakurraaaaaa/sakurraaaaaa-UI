@@ -19,4 +19,4 @@ Clean • Smooth • Powerful
 ### 🚀 How to Load
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/heromolina4-netizen/cocoScript/main/cocoScript.lua"))()
+loadstring(game:HttpGet("loadstring(game:HttpGet("https://raw.githubusercontent.com/profile67/CoconutUI/main/cocoScript.lua"))()"))()
