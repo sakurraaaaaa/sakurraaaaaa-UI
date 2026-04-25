@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://i.imgur.com/0ZfK8zP.png" width="120" alt="Sakura Icon">
+<img src="https://i.imgur.com/0ZfK8zP.png" width="110" alt="Sakura Icon">
 
-# 🌸 **SAKURA BLOOM UI**  
-**V15 - Premium Cherry Blossom Edition**
+# 🌸 **SAKURAAAAA UI**  
+**V16.5 - Ultra Small Classic Executor**
 
-### *Elegant. Smooth. Powerful.*
+### *Minimal • Smooth • Powerful*
 
-The most beautiful and clean Roblox executor UI with soft sakura pink & white theme, floating petals, smooth animations, and a powerful built-in executor.
+The cleanest and smallest Roblox executor UI with soft sakura pink theme, smooth animations, and a real bottom-right notification when loaded.
 
-![Preview](https://via.placeholder.com/800x400/1A1422/FFB6D7?text=Sakura+Bloom+UI+Preview)  
-*(Replace with actual screenshot when you upload one)*
+![UI Preview](https://via.placeholder.com/780x420/1A0F24/FF8CB9?text=SAKURAAAAA+UI+V16.5+Preview)  
+*(Replace this with your actual screenshot once uploaded)*
 
 </div>
 
@@ -18,20 +18,19 @@ The most beautiful and clean Roblox executor UI with soft sakura pink & white th
 
 ## ✨ Features
 
-- Stunning Cherry Blossom (Sakura) aesthetic with pink & white tones
-- Floating petal particle background
-- Smooth breathing glows and premium animations
-- Modern drag & drop interface
-- Powerful Executor supporting `loadstring`, modules (`require`), LocalScripts & more
-- Press **F** to toggle the UI
-- Clean Home page with quick actions
-- Fully customizable and easy to use
+- **Ultra Compact** — Takes almost no screen space
+- Classic executor layout with a big, clean code box
+- Soft Sakura Pink & Dark theme with breathing glow
+- Smooth drag, animations, and F to toggle
+- Real Roblox-style badge notification in bottom-right corner
+- Full `loadstring` support (works with most scripts)
+- Works great on PC and mobile executors
 
 ---
 
-## 🚀 How to Load (One Click)
+## 🚀 Quick Load
 
-Copy and paste the loadstring below into your favorite Roblox executor:
+Copy and paste this into your executor:
 
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/profile67/sakurraaaaaa-UI/main/sakurraaaaaa.lua"))()
