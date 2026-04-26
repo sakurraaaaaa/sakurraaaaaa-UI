@@ -28,4 +28,4 @@ The smallest and most elegant Roblox executor UI with soft sakura pink theme, sm
 Copy and paste this into your Roblox executor:
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/profile67/sakurraaaaaa-UI/main/sakurraaaaaa.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sakurraaaaaa/sakurraaaaaa-UI/main/sakurraaaaaa.lua"))()
